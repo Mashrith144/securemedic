@@ -1,0 +1,1 @@
+export const BCRYPT_SALT_HASH_ROUNDS = 10;
