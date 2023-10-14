@@ -34,7 +34,7 @@ import { HealthRecord } from 'src/modules/health-records/entities/HealthRecord.e
           PatientAccess,
           HealthRecord,
         ],
-        synchronize: false,
+        synchronize: true,
       }),
     }),
   ],
